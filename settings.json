@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ServerInsieme2.aternos",
+    "ip": "ServerInsieme2.aternos.me",
     "port": 58103,
     "version": "1.21.11",
     "try-creative": false
